@@ -11,5 +11,8 @@
     "url": "https://github.com/tonyMICCELI/webQuiz.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yaml": "^1.10.2"
+  }
 }
